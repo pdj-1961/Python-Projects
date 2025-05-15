@@ -1,2 +1,2 @@
 # Python Projects
-Datacamp oefen repository
+Datacamp practice repository
